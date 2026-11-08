@@ -13,31 +13,28 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const satyakam = {
-    name: "Satyakam Mohanty",
-    education: "B.Tech CSE @ Silicon University",
-    graduation: 2028,
-    role: "Aspiring Software Development Engineer",
+<CodeBlock language="markdown" editable>
+## 👨‍💻 About Me
 
-    interests: [
-        "Full Stack Development",
-        "Backend Engineering",
-        "Cloud Computing & DevOps",
-        "Artificial Intelligence & ML",
-        "Data Structures & Algorithms"
-    ],
+Hey! I'm **Satyakam Mohanty**, a Computer Science undergraduate at Silicon University, passionate about building software and exploring emerging technologies.
 
-    currentlyLearning: [
-        "Advanced DSA",
-        "Backend System Design",
-        "TypeScript",
-        "Cloud Native Technologies"
-    ],
+- 🎓 Pursuing B.Tech in Computer Science (2028).
+- 💻 Focused on Full Stack and Backend Development.
+- ☁️ Exploring Cloud Computing, AWS and DevOps.
+- 🤖 Interested in AI/ML and AI-powered applications.
+- 🧩 Practicing Data Structures & Algorithms.
+- 🚀 Love turning ideas into practical, scalable applications.
 
-    philosophy: "Learn. Build. Break. Debug. Repeat."
-};
-```
+**My goal:** Become a strong Software Development Engineer by building real-world products and continuously improving my engineering skills.
+</CodeBlock>
+
+**Why this is better:**
+- Looks cleaner and more professional.
+- Recruiters can scan it quickly.
+- Your interests and career direction are immediately visible.
+- No unnecessary code taking up space.
+
+I'd keep actual code snippets for a separate *Developer Philosophy* section only if we really want that aesthetic.
 
 - 🔭 Building practical full-stack and cloud-based applications.
 - 🌱 Exploring backend engineering, distributed systems and AI integration.
