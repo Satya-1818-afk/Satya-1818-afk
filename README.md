@@ -13,36 +13,21 @@
 
 ## 👨‍💻 About Me
 
-<CodeBlock language="markdown" editable>
-## 👨‍💻 About Me
+Hey! I'm **Satyakam Mohanty** — a Computer Science undergraduate at **Silicon University**, passionate about software engineering, building products and solving real-world problems through technology.
 
-Hey! I'm **Satyakam Mohanty**, a Computer Science undergraduate at Silicon University, passionate about building software and exploring emerging technologies.
+I enjoy working across the stack, from designing user-facing applications to developing backend systems and deploying them on cloud infrastructure.
 
-- 🎓 Pursuing B.Tech in Computer Science (2028).
-- 💻 Focused on Full Stack and Backend Development.
-- ☁️ Exploring Cloud Computing, AWS and DevOps.
-- 🤖 Interested in AI/ML and AI-powered applications.
-- 🧩 Practicing Data Structures & Algorithms.
-- 🚀 Love turning ideas into practical, scalable applications.
+- 💻 **Software Engineering:** Building full-stack applications and exploring backend architecture, APIs and database design.
+- ☁️ **Cloud & DevOps:** Hands-on experience with AWS, Docker, Kubernetes, Jenkins and CI/CD pipelines.
+- 🤖 **AI & Machine Learning:** Exploring ML fundamentals and the integration of AI into practical applications.
+- 🧠 **Problem Solving:** Practicing Data Structures & Algorithms and strengthening my programming fundamentals.
+- 🚀 **Builder Mindset:** I believe in learning by building, experimenting with new technologies and turning ideas into working products.
 
-**My goal:** Become a strong Software Development Engineer by building real-world products and continuously improving my engineering skills.
-</CodeBlock>
+### 🎯 What I'm Focused On
 
-**Why this is better:**
-- Looks cleaner and more professional.
-- Recruiters can scan it quickly.
-- Your interests and career direction are immediately visible.
-- No unnecessary code taking up space.
+Deepening my knowledge of **Backend Engineering, System Design, Cloud Infrastructure and AI-powered applications**, while continuously improving my problem-solving skills.
 
-I'd keep actual code snippets for a separate *Developer Philosophy* section only if we really want that aesthetic.
-
-- 🔭 Building practical full-stack and cloud-based applications.
-- 🌱 Exploring backend engineering, distributed systems and AI integration.
-- ☁️ Working with AWS, Docker, Kubernetes and CI/CD.
-- 💡 Interested in scalable systems and real-world engineering problems.
-- 🎯 Working towards becoming a strong Software Development Engineer.
-
----
+> "Great software isn't just written. It's engineered, tested, deployed and continuously improved."
 
 ## ⚡ Tech Stack
 
