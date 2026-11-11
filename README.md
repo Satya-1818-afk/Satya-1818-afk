@@ -90,6 +90,8 @@ Deepening my knowledge of **Backend Engineering, System Design, Cloud Infrastruc
 **Tech:** Node.js | Express.js | MongoDB | EJS | Bootstrap
 
 - Developed a full-stack listing application.
+- Implemented MVC architecture
+- Used Mapbox and cloudinary
 - Implemented user authentication and authorization.
 - Built listing and review management functionality.
 - Integrated MongoDB relationships and CRUD operations.
